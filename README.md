@@ -69,7 +69,7 @@ Cashu should be now installed. To execute the following commands, activate your 
 poetry shell
 ```
 
-If you don't activate your environment, just prepent `poetry run` to all following commands.
+If you don't activate your environment, just prepend `poetry run` to all following commands.
 
 ## Using the wallet
 
